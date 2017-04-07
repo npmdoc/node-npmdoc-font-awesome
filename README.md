@@ -3,9 +3,11 @@
 
 [![NPM](https://nodei.co/npm/font-awesome.png?downloads=true)](https://www.npmjs.com/package/font-awesome)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-font-awesome/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-font-awesome_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-font-awesome/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-font-awesome/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-font-awesome%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-font-awesome/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-font-awesome/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-font-awesome/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-font-awesome/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
