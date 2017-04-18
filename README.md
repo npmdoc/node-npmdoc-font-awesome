@@ -1,9 +1,14 @@
-# api documentation for  [font-awesome (v4.7.0)](http://fontawesome.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-font-awesome.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-font-awesome) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-font-awesome.svg)](https://travis-ci.org/npmdoc/node-npmdoc-font-awesome)
+# npmdoc-font-awesome
+
+#### api documentation for  [font-awesome (v4.7.0)](http://fontawesome.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-font-awesome.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-font-awesome) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-font-awesome.svg)](https://travis-ci.org/npmdoc/node-npmdoc-font-awesome)
+
 #### The iconic font and CSS framework
 
-[![NPM](https://nodei.co/npm/font-awesome.png?downloads=true)](https://www.npmjs.com/package/font-awesome)
+[![NPM](https://nodei.co/npm/font-awesome.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/font-awesome)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-font-awesome/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-font-awesome%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-font-awesome/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-font-awesome/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-font-awesome/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-font-awesome/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-font-awesome/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-font-awesome/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Dave Gandy",
-        "email": "dave@fontawesome.io",
         "url": "http://twitter.com/davegandy"
     },
     "bugs": {
@@ -66,13 +70,11 @@
     "license": "(OFL-1.1 AND MIT)",
     "maintainers": [
         {
-            "name": "juliankrispel",
-            "email": "julian@goodafternoon.co"
+            "name": "juliankrispel"
         }
     ],
     "name": "font-awesome",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
@@ -82,16 +84,6 @@
     "version": "4.7.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module font-awesome](#apidoc.module.font-awesome)
-
-
-
-# <a name="apidoc.module.font-awesome"></a>[module font-awesome](#apidoc.module.font-awesome)
 
 
 
