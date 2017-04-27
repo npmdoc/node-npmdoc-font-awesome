@@ -1,6 +1,6 @@
 # npmdoc-font-awesome
 
-#### api documentation for  [font-awesome (v4.7.0)](http://fontawesome.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-font-awesome.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-font-awesome) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-font-awesome.svg)](https://travis-ci.org/npmdoc/node-npmdoc-font-awesome)
+#### basic api documentation for  [font-awesome (v4.7.0)](http://fontawesome.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-font-awesome.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-font-awesome) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-font-awesome.svg)](https://travis-ci.org/npmdoc/node-npmdoc-font-awesome)
 
 #### The iconic font and CSS framework
 
@@ -81,7 +81,8 @@
     },
     "scripts": {},
     "style": "css/font-awesome.css",
-    "version": "4.7.0"
+    "version": "4.7.0",
+    "bin": {}
 }
 ```
 
